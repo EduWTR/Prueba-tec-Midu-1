@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import React from 'react'
+import './App.css'
 
 const ENDPOINT_CAT_RANDOM_FACT = 'https://catfact.ninja/fact'
 const ENDPOINT_CAT_RANDOM_IMAGE = `https://cataas.com/cat/says/`
